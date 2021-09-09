@@ -1,8 +1,10 @@
+/* Color Scheme */
 body {
 	background-color: #202020;
 	color: #e3e3e3;
 }
 
+/* Header */
 header {
 	font-family: "Libre Baskerville", serif;
 	text-align: center;
@@ -20,6 +22,7 @@ h2 {
 	margin-bottom: 3%;
 }
 
+/* Text Section */
 main {
 	width: 75%;
 	margin: auto;
@@ -33,6 +36,7 @@ main {
 	margin-bottom: 5%;
 }
 
+/* Separate the text with the picture */
 #text_1 {margin-bottom: 3%;}
 #text_2 {margin-top: 3%;margin-bottom: 3%;}
 
@@ -41,6 +45,7 @@ img {
 	align: center;
 }
 
+/* The after-text section */
 #slogans {
 	font-family: "Glory", sans-serif;
 	font-size: 190%;
@@ -52,6 +57,7 @@ img {
 	margin-bottom: 2%;
 }
 
+/* The framed slogan */
 #frame {
 	text-align: adjust;
 	font-size: 110%;
@@ -62,12 +68,12 @@ img {
 	padding: 0.2%;
 }
 
+/* DONATE NOW button */
 #button-div {
 	text-align: center;
 	margin-top:3%;
 	margin-bottom:3%;
 }
-
 a.button:link, a.button:visited {
     -webkit-appearance: button;
     -moz-appearance: button;
@@ -87,6 +93,7 @@ a.button:hover, a.button:active {
 	border-color: #e3e3e3;
 }
 
+/* Footer */
 #copyright, #signature{
 	font-family: 'Glory', sans-serif;
 	font-size: 120%;
@@ -117,6 +124,7 @@ a.button:hover, a.button:active {
 	text-decoration: underline;
 }
 
+/* @media queries */
 /* Medium devices */
 @media (max-device-width: 720px) {
 	h1 {
@@ -181,3 +189,5 @@ a.button:hover, a.button:active {
     #signature {
     	font-size: 70%;
 }
+
+/* TODO : add @media query for Fold devices */

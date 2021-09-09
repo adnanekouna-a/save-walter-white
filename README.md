@@ -21,5 +21,5 @@ This is actually my 2nd take on this idea, because I ended up giving up on the f
 - Add plenty of Easter Eggs.
 
 ## Easter Eggs:
-- The **Donate Now** button takes you to the donation section of a local association of cancer control : [Fondation Lalla Salma De Lutte Contre Le Cancer](https://contrelecancer.ma/fr/).
+- The **Donate Now** button takes you to the donation section of a local association of cancer control's website : [Fondation Lalla Salma De Lutte Contre Le Cancer](https://contrelecancer.ma/fr/).
 - Other easter eggs are otw.
