@@ -2,10 +2,10 @@
 As my first website, I decided to re-make the [easter egg website](http://www.savewalterwhite.com/) from AMC's popular show **Breaking Bad** and re-style it to a more minimalist/modern look.
 ***
 
-1. [Introduction:](#introduction)
-2. [Resources:](#resources)
-3. [TODO List:](#todo-list)
-4. [Easter Eggs:](#easter-eggs)
+1. [Introduction](#introduction)
+2. [Resources](#resources)
+3. [TODO List](#todo-list)
+4. [Easter Eggs](#easter-eggs)
 
 ## Introduction:
 This is actually my 2nd take on this idea, because I ended up giving up on the first try 7 months ago. Before building this webpage, I had no prior experience with HTML & CSS, so I just googled my way through any obstacle and ended up learning a lot from this experience. It took me around 10 hours to finish the first (and current) version.
