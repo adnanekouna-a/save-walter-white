@@ -124,6 +124,14 @@ a.button:hover, a.button:active {
 	text-decoration: underline;
 }
 
+/* Easter Eggs */
+/* Cooking Easter Egg */
+#easter-egg-1 {
+	text-decoration: none;
+	color: #e3e3e3;
+}
+
+
 /* @media queries */
 /* Medium devices */
 @media (max-device-width: 720px) {
