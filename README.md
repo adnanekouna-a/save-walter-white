@@ -1,6 +1,6 @@
 # Save Walter White
-As my first website, I decided to re-make the [easter egg website](http://www.savewalterwhite.com/) from AMC's popular show **Breaking Bad** and re-style it to a more minimalist/modern look.
 ![Image of Walter White](./Walter.jpg)
+As my first website, I decided to re-make the [easter egg website](http://www.savewalterwhite.com/) from AMC's popular show **Breaking Bad** and re-style it to a more minimalist/modern look.
 ***
 
 1. [Introduction](#introduction)
